@@ -6,3 +6,4 @@ Dependencies:
 - bootstrap.min.css
 - jquery.min.js
 - bootstrap.min.js
+- closemenu.js
